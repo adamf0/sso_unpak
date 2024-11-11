@@ -21,8 +21,8 @@ _(Add visual diagrams or further explanation here if needed.)_
    - 2.1 Import data LDAP ❌
    - 2.2 Tambah akun ❌
 3. **Konfigurasi Keycloak**
-   - 3.1 Buat realm ❌
-   - 3.2 Buat client_id ❌
+   - 3.1 Buat realm Keycloak ❌
+   - 3.2 Buat client_id Keycloak ❌
    - 3.3 Menghubungkan ke provider LDAP
 4. **Management akun pengguna**
    - 4.1 Create akun ❌
