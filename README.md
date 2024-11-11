@@ -29,9 +29,9 @@ _(Add visual diagrams or further explanation here if needed.)_
    - 4.2 Update akun ✅
    - 4.3 Delete akun ✅
 5. **Auth login**
-   - 5.1 Login sebagai administrator ❌
-   - 5.2 Login menggunakan credential ❌
-   - 5.3 Login menggunakan akun ❌
+   - 5.1 Login sebagai administrator ✅
+   - 5.2 Login menggunakan credential ✅
+   - 5.3 Login menggunakan akun ✅
 6. **Security**
    - 6.1 Menggunakan SSL ❌
    - 6.2 Enumeration, Log4j & injection ❌
