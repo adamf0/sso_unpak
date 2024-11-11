@@ -23,7 +23,7 @@ _(Add visual diagrams or further explanation here if needed.)_
 3. **Konfigurasi Keycloak**
    - 3.1 Buat realm Keycloak ✅
    - 3.2 Buat client_id Keycloak ✅
-   - 3.3 Menghubungkan ke provider LDAP
+   - 3.3 Menghubungkan ke provider LDAP ✅
 4. **Management akun pengguna**
    - 4.1 Create akun ❌
    - 4.2 Update akun ❌
