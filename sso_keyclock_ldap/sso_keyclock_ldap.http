@@ -1,0 +1,6 @@
+@sso_keyclock_ldap_HostAddress = http://localhost:5290
+
+GET {{sso_keyclock_ldap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

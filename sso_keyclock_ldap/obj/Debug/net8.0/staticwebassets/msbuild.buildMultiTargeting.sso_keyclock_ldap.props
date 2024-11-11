@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sso_keyclock_ldap.props" />
+</Project>

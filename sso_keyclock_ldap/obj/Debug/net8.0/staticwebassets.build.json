@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SqeCnj9KE2squ7dVrSPR6IzQ2BWqi2f590lj9clqH7A=",
+  "Source": "sso_keyclock_ldap",
+  "BasePath": "_content/sso_keyclock_ldap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
