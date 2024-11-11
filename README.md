@@ -18,7 +18,7 @@ _(Add visual diagrams or further explanation here if needed.)_
 
 1. **Deploy aplikasi Keycloak dan LDAP menggunakan Docker** ✅
 2. **Konfigurasi LDAP**
-   - 2.1 Import data ❌
+   - 2.1 Import data LDAP ❌
    - 2.2 Tambah akun ❌
 3. **Konfigurasi Keycloak**
    - 3.1 Buat realm ❌
