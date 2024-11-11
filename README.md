@@ -35,5 +35,5 @@ _(Add visual diagrams or further explanation here if needed.)_
 6. **Security**
    - 6.1 Menggunakan SSL ❌
    - 6.2 Enumeration, Log4j & injection ❌
-   - 6.3 Secure image Docker ❌
+   - 6.3 Secure image Docker [1/2]
 7. **Login menggunakan Google account (opsional)**

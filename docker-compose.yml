@@ -1,6 +1,6 @@
 services:  
   keycloak:
-    image: quay.io/keycloak/keycloak:latest
+    image: cgr.dev/chainguard/keycloak #quay.io/keycloak/keycloak:latest
     container_name: keycloak
     environment:
       - KC_BOOTSTRAP_ADMIN_USERNAME=admin
@@ -14,7 +14,7 @@ services:
       - keycloak-network
      
   openldap:
-    image: osixia/openldap:1.5.0
+    image: osixia/openldap:1.5.0 #di cgr.dev belum ada; osixia/openldap udah 3 tahun tidak ada update lagi sedangkan pengembangan v2 sudah ada; bitnami/openldap gagal login
     container_name: openldap
     environment:
       - LDAP_ORGANISATION="MyCompany Inc."
