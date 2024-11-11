@@ -1,33 +1,39 @@
 # SSO UNPAK
-prototype untuk login menggunakan Keyclock dengan Provider LDAP beserta managen akun user menggunakan .NET Core API
 
-# ALASAN
-adanya temuan dari benyaknya dosen sekaligus menjadi PR besar untuk pihak IT karena untuk login pengguna setiap aplikasi berbeda akun. meskupun dari teknis sudah mengakali dengan cara menggunakan nidn, nip dan nim tetap belum terelasisai semua karena tingkat kompleksitas yg tidak terkendali (database berbeda server, request time out, server db down, dll). tim jaringan sudah memberikan ide dengan menggunakan LDAP yg dimana tujuan tambahannya dari radius wifi bisa akses langsung tanpa request api tambahan untuk login. 
+Prototype untuk login menggunakan **Keycloak** dengan Provider **LDAP** beserta manajemen akun user menggunakan **.NET Core API**.
 
-# TUJUAN  
-untuk memudahkan dalam authentication dan authorization
+## ALASAN
 
-# ILUSTRASI
+Adanya temuan dari banyaknya dosen sekaligus menjadi PR besar untuk pihak IT karena untuk login pengguna setiap aplikasi berbeda akun. Meskipun dari teknis sudah mengakali dengan cara menggunakan **nidn**, **nip**, dan **nim**, tetap belum teratasi semua karena tingkat kompleksitas yang tidak terkendali (database berbeda server, request time out, server db down, dll). Tim jaringan sudah memberikan ide dengan menggunakan **LDAP** yang di mana tujuan tambahannya dari radius wifi bisa akses langsung tanpa request API tambahan untuk login. 
 
-# TASK
-1. deploy aplikasi keyclock dan ldap menggunakan docker ✅
-2. konfigurasi ldap
-    2.1 import data ❌
-    2.2 tambah akun ❌
-3. konfigurasi keycloack
-    3.1 buat realm ❌
-    3.2 buat client_id ❌
-    3.3 menghubungkan ke provide ldap
-4. management akun pengguna ❌
-    4.1 create akun ❌
-    4.2 update akun ❌
-    4.3 delete akun ❌
-5. auth login
-    5.1 sebagai administrator ❌
-    5.2 menggunakan credential ❌
-    5.3 menggunakan akun ❌
-6. security
-    6.1 menggunakan ssl ❌
-    6.2 enumeration, log4j & injection ❌
-    6.3 secure image docker ❌
-7. login menggunakan google account (opsional) 
+## TUJUAN  
+
+Untuk memudahkan dalam **authentication** dan **authorization**.
+
+## ILUSTRASI
+
+_(Add visual diagrams or further explanation here if needed.)_
+
+## TASK
+
+1. **Deploy aplikasi Keycloak dan LDAP menggunakan Docker** ✅
+2. **Konfigurasi LDAP**
+   - 2.1 Import data ❌
+   - 2.2 Tambah akun ❌
+3. **Konfigurasi Keycloak**
+   - 3.1 Buat realm ❌
+   - 3.2 Buat client_id ❌
+   - 3.3 Menghubungkan ke provider LDAP
+4. **Management akun pengguna**
+   - 4.1 Create akun ❌
+   - 4.2 Update akun ❌
+   - 4.3 Delete akun ❌
+5. **Auth login**
+   - 5.1 Sebagai administrator ❌
+   - 5.2 Menggunakan credential ❌
+   - 5.3 Menggunakan akun ❌
+6. **Security**
+   - 6.1 Menggunakan SSL ❌
+   - 6.2 Enumeration, Log4j & injection ❌
+   - 6.3 Secure image Docker ❌
+7. **Login menggunakan Google account (opsional)**
