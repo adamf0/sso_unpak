@@ -11,8 +11,8 @@ Adanya temuan dari banyaknya dosen sekaligus menjadi PR besar untuk pihak IT kar
 Untuk memudahkan dalam **authentication** dan **authorization**.
 
 ## ILUSTRASI
-
-<img src="image/diagram_sso.png" alt="diagram sso"/>
+<img src="image/ilustrasi.png" width="600" alt="ilustrasi"/>
+<img src="image/diagram_sso.png" width="600" alt="diagram sso"/>
 
 ## TASK
 
