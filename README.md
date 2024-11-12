@@ -12,7 +12,7 @@ Untuk memudahkan dalam **authentication** dan **authorization**.
 
 ## ILUSTRASI
 
-_(Add visual diagrams or further explanation here if needed.)_
+<img src="image/diagram_sso.png" alt="diagram sso"/>
 
 ## TASK
 

@@ -1,4 +1,5 @@
-1. jalan kan perintah 
+1. pastikan berdada di project sso_keyclock_ldap
+2. jalan kan perintah 
 ```
 docker-compose up -d
 ```
