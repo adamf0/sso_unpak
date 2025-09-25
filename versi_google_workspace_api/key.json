@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "putikproject",
+  "private_key_id": "1d7717f9459d74900b08e5384ec20b267f6b224b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDG3dyZ2u6n+R1K\nSOsdnDApuuaEA8H7O4Ze02zqZpcdF02/qbGDAOfbdcJ1SUJmn7ojqrOJXIQDk/+v\niKQf5d2V2eVCj9kO5uYGQ+TU5W34CZQ2zRqbBEfI6jzZu7N9XXINLJ/i8ivkXF2L\nIap7U8TPkrqfhkgkuH6MkHJIzJadAL+K46bqJg+n2q/tU9EwE0cfiY6c41BrSdmw\nafNlM2PDkDEMeTjVyUl12epT4YRyoyNfMM9nj7yqrv31v76g7jUE3b0L3kscvmJn\nnNhclL33aBlXCn0wKNJL8iIeOhaEk575aQ5Covx4p+su7rfZbFB2SF+uu69RsMtB\nTfEQ2WspAgMBAAECggEAAioXwgZtnB8psWgUBAYHSar8DOIywNU2kA67yUd9e/lH\nv7m9IdHXPtlGzlU86hDxZbzlwu2CeSdUbEtfzZeS7Ell9a31tN7F5eSkXNNURDOh\nfPZe7zfnlUaZtofKFd0X9iVUUP67BCYjtVVpWDndYwzOfRjpF9o4tAxd7BAq+vw0\n+h4CylFkQuQViZKC8CXadCuK4qFNHUzEgVz153DrIepVLMrhpE/UQ+/apIkcuVk7\nA2dm8XnhxcRY0kZ6GX2pNgb0+dfMl5odkCBtUpKZH5oYLxXbo8qnDHSNbtYo+vUF\nvscMx+DgM4Pi7fmKHStQOduywhNGdv7aLGPa6Ie3gQKBgQDpLmShr4KYAs+5LdlO\nCJev25nk81jJt0i017MyJUvWmSTuxu2FNRYEVfqP/8cgCI58WhVtzvMkZUM39GUQ\nhADXDJ1rhtGFm9vKo+kz0tXuqiFGtcGMGDHdyZDRkcRFWzyuzq/gTy9PnznM/98z\n6/I9mlafwh5Fuw5tek2NjJZLqQKBgQDaU9O9Kql6+5P/29Q7xAmtt9UGRWp/EfV1\nu0Bi++1EdV3fVcAvMwHPtreIAhfBwdzkpIDuC1fC6WzRhV30g4JEjg+3Ymg1nsdY\n00XHJF6otUtTeF7MdkuQLFPduchigOzPjIWvuAcYLzhzzR8+w7xq/0NnB0QjAymN\nDNeTk1nTgQKBgH0cOjwSKjSbVY6azfwzWgeuAL0538qi/2ygSvI91pn2oz1GGIyf\nNgfvhbebWeCTFrgbsWGwZv6BIna0N0GMQdMgXpohxOs1+9CW73mxxrz+JUqGHKmp\nFaBVFNGMr00zLbTxCqaEdfL3kJCwPLbkAp4Q4CdphMqPGaedtlybMMy5AoGAFex3\nBbbj//KFYRr9C+dapXQhUxjjYdE22dSs2YO8xrQWchfVTagMlYQel+zF3/IMsXUH\ncV/4Nx1jjQKcdbJDAYlWcK7UEhZYpEXK6v1u9/gEkWQz+MokOl0JKum+Ao45uXm9\n7vBG3hnXzGEbsxzKrd/mL9Fd+ToXEQ/qEeqpCYECgYAXFt1xk7MLzQ8EBJVs0LT7\ncGeQDU0uoPpuMKFr3Re5TgEaFn/3/IBCG1pDddnudz4VxXtcNBxADqAcKaiAnav5\nLiGoDgdTCBOBy5/3VW36to7woZrAOoMK1UNXY0keT9jlcBdfcS9aKUQq1jL13s+S\n8qpOBNanD9haiI3VLNaNDA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "upak-sso-2@putikproject.iam.gserviceaccount.com",
+  "client_id": "117941175546775386632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upak-sso-2%40putikproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
